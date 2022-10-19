@@ -20,7 +20,7 @@ Standing on the shoulders of giants
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
-### Research interests
+## Research interests
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
